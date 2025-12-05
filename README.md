@@ -1,6 +1,5 @@
  👋 Siemano jestem @Johnny1455
  👀 Interesuje się informatyką
- 🌱 Aktualnie ucze się java scripta
  📫 Możecie mnie znaleźć na discordzie https://discord.gg/Q2PAFJRDeU
 
 <!---
